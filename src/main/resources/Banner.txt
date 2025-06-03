@@ -1,0 +1,13 @@
+ __  __                        _       _       _       _                       
+|  \/  | ___  _ __   ___ _ __ (_)_ __ | |__   | | __ _| |_ ___  _ __ ___  ___  
+| |\/| |/ _ \| '_ \ / _ \ '_ \| | '_ \| '_ \  | |/ _` | __/ _ \| '__/ _ \/ __| 
+| |  | | (_) | | | |  __/ | | | | |_) | | | | | | (_| | || (_) | | |  __/\__ \ 
+|_|  |_|\___/|_| |_|\___|_| |_|_| .__/|_| |_| |_|\__,_|\__\___/|_|  \___||___/ 
+                                |_|                                            
+--------------------------------------------------------------------------------
+  MoneyTree WhatsApp API - REST Integration Platform
+  Version    : 1.0.0
+  Description: REST API for WhatsApp messaging and integration with MoneyTree platform
+  Developed by: Vartulz API Team (gautam@vartulz.com)
+  Powered by : Vartulz Technology Private Limited | https://vartulz.com
+--------------------------------------------------------------------------------
