@@ -1,5 +1,8 @@
 package com.moneytree.moneywhatsapp.requestbody;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class MessageRequest {
 
     private String messaging_product = "whatsapp"; // Default messaging product is WhatsApp

@@ -1,5 +1,8 @@
 package com.moneytree.moneywhatsapp.requestbody;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class MessageDocument {
 
     private String link;
